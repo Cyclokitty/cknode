@@ -8,5 +8,8 @@
     "start": "node server.js"
   },
   "author": "Laura Veee",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "cat-me": "^1.0.3"
+  }
 }
